@@ -1,7 +1,7 @@
 {
   "author": "Houston Nguyen",
   "name": "scrollup",
-  "description": "A Discord bot that calls a user out for sharing a link that was already shared",
+  "description": "A Discord Bot that calls people out for posting a link that has already been shared before",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
